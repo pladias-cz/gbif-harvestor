@@ -1,0 +1,4 @@
+requests==2.34.2
+psycopg[binary]==3.3.6
+duckdb==2.0.0
+boto3==1.43.123
